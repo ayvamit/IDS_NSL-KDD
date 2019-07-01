@@ -17,4 +17,4 @@ Algorithm Applied
 
 This is simple implementation of the machine learning algorithm on the NSL KDD Dataset. The dataset is obtained from the Kaggle. The dataset as large number of attributes (42 attributes) and sample for training and testing the dataset. At the end of the implementation we compare the accuracy and time taken for training for all the algorithms.
 
-For implmentation we are taking only the 10000 sample from the dataset for reducing the training time. SVM algorithm takes a long time in training the dataset with large number samples. 
+For implmentation we are taking only the 10000 sample from the dataset for reducing the training time. SVM algorithm takes a long time in training the dataset with large number samples. But you can the run code for full dataset by commenting few line of code
